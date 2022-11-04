@@ -2,6 +2,30 @@
 
 `2022-11-03`
 
+---
+
+- [Intro / Industry Talk](#intro--industry-talk)
+  - [AWS Fargate - serverless](#aws-fargate---serverless)
+  - [misc](#misc)
+- [Platform Engineering](#platform-engineering)
+  - [misc](#misc-1)
+- [Data on Kubernetes](#data-on-kubernetes)
+  - [mics](#mics)
+- [Container Security](#container-security)
+  - [Shared Responsibility Model](#shared-responsibility-model)
+  - [Defenence in Depth (Model)](#defenence-in-depth-model)
+- [Operational Excellence](#operational-excellence)
+  - [Infrastructure management](#infrastructure-management)
+- [Observability](#observability)
+- [Reliability](#reliability)
+- [Accelerators / Guardrails](#accelerators--guardrails)
+  - [AWS Roles](#aws-roles)
+  - [Deploying changes](#deploying-changes)
+- [Workshop](#workshop)
+  - [Handy commands](#handy-commands)
+
+---
+
 ## Intro / Industry Talk
 
 https://www.forrester.com/bold/planning-guide-2023/
